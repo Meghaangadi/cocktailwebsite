@@ -21,7 +21,7 @@ input{
     color: black;
 }
 #searchButton{
-    align-items: center;
+    align-items:left;
     margin:0;
     width:70px;
     height: 56px;
